@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationChecker</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="location_placeholder">Hi Please press below button to See your location Coordinates</string>
+    <string name="check_location_button">Check Location</string>
+    <string name="location_dialog_title">Current Location</string>
+    <string name="location_message">Your coordinates are: %.6f, %.6f</string>
+    <string name="ok">OK</string>
+    <string name="location_permission_denied_message">Location permission denied</string>
+
+</resources>
